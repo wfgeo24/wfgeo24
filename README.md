@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/b9fbadc2-25ba-4858-a822-aa793a01349a" />
 
 <!--
 **wfgeo24/wfgeo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
